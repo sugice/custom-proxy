@@ -467,7 +467,7 @@
             },
             {
                 "clash_mode": "global",
-                "outbound": "GLOBAL"
+                "outbound": "🌐 全球代理"
             },
             {
                 "domain": [
