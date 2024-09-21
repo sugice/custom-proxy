@@ -302,6 +302,12 @@
                     "keywords": [
                         "🇭🇰|HK|hk|香港|港|HongKong"
                     ]
+                },
+                {
+                    "action": "exclude",
+                    "keywords": [
+                        "[Premium]"
+                    ]
                 }
             ],
             "url": "http://www.gstatic.com/generate_204",
@@ -319,6 +325,12 @@
                     "action": "include",
                     "keywords": [
                         "🇹🇼|TW|tw|台湾|臺灣|台|Taiwan"
+                    ]
+                },
+                {
+                    "action": "exclude",
+                    "keywords": [
+                        "[Premium]"
                     ]
                 }
             ],
@@ -338,6 +350,12 @@
                     "keywords": [
                         "🇯🇵|JP|jp|日本|日|Japan"
                     ]
+                },
+                {
+                    "action": "exclude",
+                    "keywords": [
+                        "[Premium]"
+                    ]
                 }
             ],
             "url": "http://www.gstatic.com/generate_204",
@@ -356,6 +374,12 @@
                     "keywords": [
                         "🇸🇬|SG|sg|新加坡|狮|Singapore"
                     ]
+                },
+                {
+                    "action": "exclude",
+                    "keywords": [
+                        "[Premium]"
+                    ]
                 }
             ],
             "url": "http://www.gstatic.com/generate_204",
@@ -373,6 +397,12 @@
                     "action": "include",
                     "keywords": [
                         "🇺🇸|US|us|美国|美|United States"
+                    ]
+                },
+                {
+                    "action": "exclude",
+                    "keywords": [
+                        "[Premium]"
                     ]
                 }
             ],
@@ -396,6 +426,12 @@
                         "🇸🇬|SG|sg|新加坡|狮|Singapore",
                         "🇺🇸|US|us|美国|美|United States"
                     ]
+                },
+                {
+                    "action": "exclude",
+                    "keywords": [
+                        "[Premium]"
+                    ]
                 }
             ]
         },
@@ -409,7 +445,7 @@
                 {
                     "action": "exclude",
                     "keywords": [
-                        "网站|地址|剩余|过期|时间|有效|网址|禁止|邮箱|发布|客服|订阅|节点"
+                        "网站|地址|剩余|过期|时间|有效|网址|禁止|邮箱|发布|客服|订阅|节点|[Premium]"
                     ]
                 }
             ],
